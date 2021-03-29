@@ -1,0 +1,86 @@
+{
+	"BUILD_DIR" : "/home/hjira/calibration/TEMPORAL-main/uild/lib/FileReader/FileReader_autogen",
+	"CMAKE_BINARY_DIR" : "/home/hjira/calibration/TEMPORAL-main/uild",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/hjira/calibration/TEMPORAL-main/uild/lib/FileReader",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/hjira/calibration/TEMPORAL-main/lib/FileReader",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_SOURCE_DIR" : "/home/hjira/calibration/TEMPORAL-main",
+	"HEADERS" : 
+	[
+		[
+			"/home/hjira/calibration/TEMPORAL-main/lib/FileReader/filereader.h",
+			"MU",
+			"EWIEGA46WW/moc_filereader.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/hjira/calibration/TEMPORAL-main/uild/lib/FileReader/FileReader_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/hjira/calibration/TEMPORAL-main/uild/lib/FileReader/FileReader_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"CORPORATION_NAME=\"Damavan-imaging\"",
+		"NO_YAML",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NO_DEBUG",
+		"SOFTWARE_NAME=\"FileReader\"",
+		"VERSION=\"0.0.1\""
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/hjira/products/build_root/include",
+		"/home/hjira/calibration/TEMPORAL-main/lib/FileReader",
+		"/home/hjira/calibration/TEMPORAL-main/lib/FileReader/lib/CommonQuadratorHeader/510",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/x86_64-linux-gnu/qt5/QtGui",
+		"/usr/include/c++/10",
+		"/usr/include/x86_64-linux-gnu/c++/10",
+		"/usr/include/c++/10/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/10/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/hjira/calibration/TEMPORAL-main/uild/lib/FileReader/FileReader_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 2,
+	"PARSE_CACHE_FILE" : "/home/hjira/calibration/TEMPORAL-main/uild/lib/FileReader/CMakeFiles/FileReader_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"SETTINGS_FILE" : "/home/hjira/calibration/TEMPORAL-main/uild/lib/FileReader/CMakeFiles/FileReader_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/hjira/calibration/TEMPORAL-main/lib/FileReader/filereader.cpp",
+			"MU"
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

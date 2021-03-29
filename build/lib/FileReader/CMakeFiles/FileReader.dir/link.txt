@@ -1,0 +1,2 @@
+/usr/bin/ar qc libFileReader.a  CMakeFiles/FileReader.dir/FileReader_autogen/mocs_compilation.cpp.o CMakeFiles/FileReader.dir/filereader.cpp.o
+/usr/bin/ranlib libFileReader.a
